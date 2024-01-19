@@ -1,0 +1,30 @@
+<!-- 
+    Boot camp exercise 2 - dynamic form fields
+    Author: Siyuan Zhao
+    CS422 Spring 2024
+-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Dynamic Fields</title>
+    <link rel="stylesheet" type="text/css" href="dynamic.css" />
+  </head>
+  <body>
+    <div class="container">
+      <form>
+      <div id="formfield">
+        <input type="text" name="text" class="text" size="50" placeholder="Name">
+        <input type="text" name="text" class="text" size="50" placeholder="Email">
+        <input type="text" name="text" class="text" size="50" placeholder="Optional Field">
+      </div>
+      <button type="submit" class="submit">submit</button>
+    </form>
+      <div class="controls">
+        <button class="add" onclick="add()">Add</button>
+        <button class="remove" onclick="remove()">Remove</button>
+      </div>
+    </div>
+    <script src="dynamic.js"></script>
+  </body>
+</html>

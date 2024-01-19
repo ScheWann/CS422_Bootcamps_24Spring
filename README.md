@@ -7,6 +7,10 @@ CS422 Bootcamps exercises, including HTML, CS, JavaScript, and React.js
 <img src="./exercise 1/exercise1.png">
 
 ## Exercise 2
-### Form Validation and Dynamic Form Fields(Optional)
+### Form Validation
 
 <img src="./exercise 2/validation.png">
+
+### Dynamic Form Fields(Optional)
+
+<img src="./exercise 2/dynamic.png">
