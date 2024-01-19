@@ -11,7 +11,7 @@ CS422 Bootcamps exercises, including HTML, CS, JavaScript, and React.js
 
 <img src="./exercise 2/validation.png">
 
-### Dynamic Form Fields(Optional)
+### Dynamic Form Fields(Extra)
 <p align="center">
     <img src="./exercise 2/dynamic.png">
 </p>
