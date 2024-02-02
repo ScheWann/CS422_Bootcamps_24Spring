@@ -6,6 +6,7 @@ CS422 Bootcamps exercises, including HTML, CS, JavaScript, and React.js
 
 <img src="./exercise 1/exercise1.png">
 
+
 ## Exercise 2
 ### Form Validation
 
@@ -15,3 +16,11 @@ CS422 Bootcamps exercises, including HTML, CS, JavaScript, and React.js
 <p align="center">
     <img src="./exercise 2/dynamic.png">
 </p>
+
+
+## Exercise 3
+### Shopping list app
+<p align="center">
+    <img src="./exercise 3/public/exercise3.png">
+</p>
+
