@@ -24,3 +24,5 @@ CS422 Bootcamps exercises, including HTML, CS, JavaScript, and React.js
     <img src="./exercise 3/public/exercise3.png">
 </p>
 
+## Exercise 4 (Optional)
+### Component communication example
