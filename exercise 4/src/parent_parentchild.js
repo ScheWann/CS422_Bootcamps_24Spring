@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function Parent() {
+function ParentParentChild() {
 	const [fName, setfName] = useState("firstName");
 	const [lName, setlName] = useState("LastName");
 	return (
@@ -44,4 +44,4 @@ function ChildC({ fName, lName }) {
 	);
 }
 
-export default Parent;
+export default ParentParentChild;

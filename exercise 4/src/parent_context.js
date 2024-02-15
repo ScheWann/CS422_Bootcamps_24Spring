@@ -2,7 +2,7 @@ import React, { useState, createContext, useContext } from "react";
 
 const context = createContext();
 
-function ParentUpdate() {
+function ParentContext() {
     const [fName, setfName] = useState("firstName");
     const [lName, setlName] = useState("LastName");
     return (
@@ -47,4 +47,4 @@ function ChildC() {
     );
 }
 
-export default ParentUpdate;
+export default ParentContext;
